@@ -1,4 +1,5 @@
 import streamlit
 
 streamlit.title('Hi there')
-streamlit.title('New change is here')
+streamlit.header('this is header')
+streamlit.text('This is just text')
